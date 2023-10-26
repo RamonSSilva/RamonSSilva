@@ -25,4 +25,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonSSilva&show_icons=true)
 
 ---
-![Snake animation](https://github.com//RamonSSilva/RamonSSilva/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  ![Snake animation](https://github.com//RamonSSilva/RamonSSilva/blob/output/github-contribution-grid-snake.svg)
+ </p> 
