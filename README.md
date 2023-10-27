@@ -23,7 +23,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />
 
 <div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/ramonsimao" target="_blank">
+  <a href="https://www.linkedin.com/in/ramonsimao" target="_blank" onclick="window.open('https://www.linkedin.com/in/ramonsimao', '_blank'); return false;"">
     <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" height="200">
   </a>
 </div>
