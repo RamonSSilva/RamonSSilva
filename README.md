@@ -21,7 +21,12 @@
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" />
-<picture>
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
-</picture>
+
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/ramonsimao">
+    <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" height="200">
+  </a>
+</div>
+
+
 
