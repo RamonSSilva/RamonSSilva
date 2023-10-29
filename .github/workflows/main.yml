@@ -20,7 +20,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: RamonSSilvaRamonSSilva
+          github_user_name: RamonSSilva
           outputs: |
             dist/docker/github-contribution-grid-snake.svg
             dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
